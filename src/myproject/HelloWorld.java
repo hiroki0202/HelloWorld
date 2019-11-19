@@ -4,8 +4,9 @@
 package myproject;
 
 /**
+ * HelloWorldを表示するクラス
  * @author Hiroki Masuda
- *
+ * 作成：2019/10/01
  */
 public class HelloWorld {
 
